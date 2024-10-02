@@ -1,9 +1,7 @@
 package lambda;
 
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.stream.Collectors;
 
 public final class HashSetDemo {
     public static void main(String[] args) {
