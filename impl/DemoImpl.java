@@ -1,4 +1,6 @@
-package functionalinterfaces;
+package impl;
+
+import functionalinterfaces.IDemo;
 
 public class DemoImpl {
     public static void main(String[] args) {

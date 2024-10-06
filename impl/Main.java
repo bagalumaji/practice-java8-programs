@@ -1,4 +1,6 @@
-package functionalinterfaces;
+package impl;
+
+import functionalinterfaces.IPrint;
 
 public class Main {
     public static void main(String[] args) {
